@@ -1,0 +1,26 @@
+{
+  "name": "three-js-code-kata",
+  "description": "three js code kata",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aggie97/threeJsCodeKata.git"
+  },
+  "keywords": [
+    "threeJS"
+  ],
+  "author": "aggie97",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aggie97/threeJsCodeKata/issues"
+  },
+  "homepage": "https://github.com/aggie97/threeJsCodeKata#readme",
+  "dependencies": {
+    "@types/three": "^0.164.0",
+    "three": "^0.164.1"
+  }
+}
